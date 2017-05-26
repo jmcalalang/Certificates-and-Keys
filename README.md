@@ -17,6 +17,8 @@ To create a fully automated solution this can  be added with the f5devcentral/f5
 
 The easiest way to import the Collection and Environment into Postman is via the "Import from Link" option:
 
+![alt text](https://raw.githubusercontent.com/jmcalalang/Certificates-and-Keys/master/Images/Postman_Import.png "Postman Import")
+
 Collection:
 https://raw.githubusercontent.com/jmcalalang/Certificates-and-Keys/master/Certificates%20and%20Keys.postman_collection.json
 

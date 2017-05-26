@@ -14,3 +14,11 @@ This Postman Collection and Environment Variable setup contains the needed piece
 
 
 To create a fully automated solution this can  be added with the f5devcentral/f5-super-netops-container available at https://github.com/f5devcentral/f5-super-netops-container, which contains the needed pieces to dynamically populate Environment Variables off responces (Auth Token).
+
+The easiest way to import the Collection and Environment into Postman is via the "Import from Link" option:
+
+Collection:
+https://raw.githubusercontent.com/jmcalalang/Certificates-and-Keys/master/Certificates%20and%20Keys.postman_collection.json
+
+Environment:
+https://raw.githubusercontent.com/jmcalalang/Certificates-and-Keys/master/Certificates%20and%20Keys.postman_environment.json

@@ -13,7 +13,7 @@ This Postman Collection and Environment Variable setup contains the needed piece
 | new_client_ssl_profile | Client SSL Profile Name     |
 
 
-To create a fully automated solution this can  be added with the f5devcentral/f5-super-netops-container available at https://github.com/f5devcentral/f5-super-netops-container, which contains the needed pieces to dynamically populate Environment Variables off responces (Auth Token).
+To create a fully automated solution this can  be added with the f5devcentral/f5-super-netops-container available at https://github.com/f5devcentral/f5-super-netops-container, which contains the needed pieces to dynamically populate Environment Variables off responses (Auth Token).
 
 The easiest way to import the Collection and Environment into Postman is via the "Import from Link" option:
 
